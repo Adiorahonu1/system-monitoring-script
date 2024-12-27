@@ -35,10 +35,15 @@ Clone the repository to your local machine:
 Navigate to the script directory:
 
   > cd system-monitoring-script
+> 
 Make the script executable:
+
   > chmod +x system_monitoring.sh
+> 
 Usage
+
 Run the script in your terminal:
+
   >./system_monitoring.sh
 
 

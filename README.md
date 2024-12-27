@@ -58,17 +58,19 @@ system_report_YYYY-MM-DD_HH-MM-SS.log
 
 
 Example Output
-
 Terminal Output
 
 System Monitoring Script for macOS
 -----------------------------------
 
 === CPU USAGE ===
+
 Current CPU Load: 45.2%
 === MEMORY USAGE ===
+
 Free Memory: 2048MB / Total Memory: 8192MB
 === DISK SPACE USAGE ===
+
 Disk: /dev/disk1 | Usage: 75% | Available: 25GB
 === TOP 5 PROCESSES ===
 USER     %CPU    %MEM    COMMAND

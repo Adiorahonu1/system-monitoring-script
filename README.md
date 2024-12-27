@@ -49,15 +49,21 @@ Run the script in your terminal:
 
 
 The script will display the system monitoring results in the terminal and save a detailed report in the current directory.
+
 Example Report Log File
+
 The report is saved to a file named in the format:
+
 system_report_YYYY-MM-DD_HH-MM-SS.log
 
 
 Example Output
+
 Terminal Output
+
 System Monitoring Script for macOS
 -----------------------------------
+
 === CPU USAGE ===
 Current CPU Load: 45.2%
 === MEMORY USAGE ===

@@ -14,6 +14,8 @@ Features
 5).Report Generation: Automatically creates a detailed system report saved to a timestamped log file.
 
 
+
+
 Usage
 
 Prerequisites
@@ -22,10 +24,16 @@ Prerequisites
 
 2)Bash shell (default on macOS).
 
+
+
 Installation
+
 Clone the repository to your local machine:
+
   > git clone https://github.com/your-username/system-monitoring-script.git
+> 
 Navigate to the script directory:
+
   > cd system-monitoring-script
 Make the script executable:
   > chmod +x system_monitoring.sh

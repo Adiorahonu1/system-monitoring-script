@@ -66,16 +66,21 @@ System Monitoring Script for macOS
 === CPU USAGE ===
 
 Current CPU Load: 45.2%
+
 === MEMORY USAGE ===
 
 Free Memory: 2048MB / Total Memory: 8192MB
+
 === DISK SPACE USAGE ===
 
 Disk: /dev/disk1 | Usage: 75% | Available: 25GB
+
 === TOP 5 PROCESSES ===
+
 USER     %CPU    %MEM    COMMAND
 root     25.1    1.2     kernel_task
 user     10.3    2.1     some_app
+
 ...
 Generating system report...
 Report saved to system_report_2024-12-23_12:00:00.log

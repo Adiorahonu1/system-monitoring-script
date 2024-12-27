@@ -2,16 +2,24 @@
 A lightweight Bash script designed to monitor and report key system metrics on macOS. This tool provides insights into CPU usage, memory utilization, disk space, and the top resource-consuming processes. It also generates a detailed system report saved as a log file for future reference.
 
 Features
+
 1).CPU Monitoring: Tracks overall CPU usage and alerts if it exceeds a predefined threshold.
+
 2).Memory Monitoring: Displays free and total memory in MB using macOS utilities.
+
 3).Disk Space Monitoring: Lists disk usage and available space with alerts for critically low disk space.
+
 4).Top Processes: Highlights the top 5 processes consuming the most CPU and memory resources.
+
 5).Report Generation: Automatically creates a detailed system report saved to a timestamped log file.
 
 
 Usage
+
 Prerequisites
+
 1)macOS with support for native utilities (ps, awk, vm_stat, sysctl, and df).
+
 2)Bash shell (default on macOS).
 
 Installation

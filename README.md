@@ -85,6 +85,7 @@ user     10.3    2.1     some_app
 
 ...
 Generating system report...
+
 Report saved to system_report_2024-12-23_12:00:00.log
 
 Log File Content

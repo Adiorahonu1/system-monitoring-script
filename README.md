@@ -78,7 +78,9 @@ Disk: /dev/disk1 | Usage: 75% | Available: 25GB
 === TOP 5 PROCESSES ===
 
 USER     %CPU    %MEM    COMMAND
+
 root     25.1    1.2     kernel_task
+
 user     10.3    2.1     some_app
 
 ...
@@ -90,30 +92,41 @@ Log File Content
 System Report - 2024-12-23 12:00:00
 __________________________
 === CPU USAGE ===
+
 Current CPU Load: 45.2%
+
 Warning: CPU usage above 80%!
 
 === MEMORY USAGE ===
+
 Free Memory: 2048MB / Total Memory: 8192MB
 
 === DISK SPACE USAGE ===
+
 Disk: /dev/disk1 | Usage: 75% | Available: 25GB
+
 Warning: Low disk space on /dev/disk1!
 
 === TOP 5 PROCESSES ===
+
 USER     %CPU    %MEM    COMMAND
+
 root     25.1    1.2     kernel_task
+
 user     10.3    2.1     some_app
 ...
 __________________________
 
 Contributing
+
 Feel free to fork this repository and submit pull requests for improvements or additional features.
 
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Author
+
 Adiorah Onuora Feel free to connect for collaboration or feedback!
 
